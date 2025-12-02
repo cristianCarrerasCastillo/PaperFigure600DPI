@@ -21,6 +21,7 @@ If you use PaperFigure600DPI in your research, please cite it as:
 
 Carreras C. (2025). PaperFigure600DPI: A tool to batch-convert images to 600 DPI for scientific publication workflows. GitHub Repository.
 https://github.com/cristianCarrerasCastillo/PaperFigure600DPI
+
 Or in BibTeX format:
 ```bibtex
 @misc{Carreras2025PaperFigure600DPI,
