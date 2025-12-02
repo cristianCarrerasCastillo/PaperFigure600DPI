@@ -15,7 +15,7 @@ A ready-to-use Windows `.exe` build is available — you can download and run th
 
 This Python program lets the user select a folder containing images and automatically scales them to 600 DPI. Processed images are saved in a subfolder named `Scaled_600_dpi` inside the selected folder.
 
-📚 How to Cite This Tool
+## 📚 How to Cite This Tool
 
 If you use PaperFigure600DPI in your research, please cite it as:
 
