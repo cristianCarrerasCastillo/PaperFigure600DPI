@@ -19,13 +19,13 @@ This Python program lets the user select a folder containing images and automati
 
 If you use PaperFigure600DPI in your research, please cite it as:
 
-Carreras C. (2025). PaperFigure600DPI: A simple tool to batch-convert images to 600 DPI for scientific publication workflows. GitHub Repository.
+Carreras C. (2025). PaperFigure600DPI: A tool to batch-convert images to 600 DPI for scientific publication workflows. GitHub Repository.
 https://github.com/cristianCarrerasCastillo/PaperFigure600DPI
 Or in BibTeX format:
 ```bibtex
 @misc{Carreras2025PaperFigure600DPI,
   author       = {Carreras, Cristian},
-  title        = {PaperFigure600DPI: A simple tool to batch-convert images to 600 DPI for scientific publication workflows},
+  title        = {PaperFigure600DPI: A tool to batch-convert images to 600 DPI for scientific publication workflows},
   year         = {2025},
   howpublished = {\url{https://github.com/cristianCarrerasCastillo/PaperFigure600DPI}},
   note         = {GitHub repository}
